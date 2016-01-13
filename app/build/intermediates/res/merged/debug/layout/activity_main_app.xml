@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:paddingBottom="5dp"
+	android:paddingLeft="15dp"
+	android:paddingRight="15dp"
+	android:paddingTop="5dp"
+	android:orientation="vertical">
+
+	<EditText
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingBottom="10dp"
+		android:id="@+id/filter" />
+
+	<ListView
+		android:id="@android:id/list"
+		android:layout_width="fill_parent"
+		android:layout_height="300dp"
+		android:layout_below="@+id/filter"
+		android:layout_above="@+id/linearLayout" />
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="bottom"
+		android:weightSum="1"
+		android:paddingTop="5dp"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentLeft="true"
+		android:id="@+id/linearLayout">
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="40dp"
+			android:text="SORT BY NAME"
+			android:id="@+id/nameButton"
+			android:layout_weight="0.4" />
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="40dp"
+			android:text="SORT BY RATING"
+			android:id="@+id/ratingButton"
+			android:layout_weight="0.4" />
+	</LinearLayout>
+
+</RelativeLayout>

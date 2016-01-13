@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 167,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 167,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 54,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 54,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 46,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 46,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 50,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 50,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 52,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 50,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 60,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 57,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

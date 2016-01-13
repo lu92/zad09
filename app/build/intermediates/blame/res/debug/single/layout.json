@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snippet_list_row.xml",
+        "source": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\layout\\snippet_list_row.xml"
+    },
+    {
+        "merged": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_app.xml",
+        "source": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\layout\\activity_main_app.xml"
+    },
+    {
+        "merged": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "C:\\myDevelopment\\RatingBar\\ListView_Filter_Tutorial\\app\\src\\main\\res\\layout\\row_layout.xml"
+    }
+]
